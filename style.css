@@ -87,7 +87,7 @@ article >ul{
 }
 
  div > h2.tabela2 > a {
-    color: black;
+    color:  rgb(78, 43, 3);
     padding: -10px;
 }
 
@@ -104,6 +104,10 @@ h2.article2{
 }
 h1.article3{
     margin-top: 20px;
+}
+
+div.lista{
+    color: darkgoldenrod;
 }
 div.video{
     background-color: rgb(150, 97, 33);;
